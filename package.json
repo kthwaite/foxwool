@@ -1,0 +1,10 @@
+{
+    "name": "foxwool",
+    "prettier": {
+        "tabWidth": 4,
+        "printWidth": 100,
+        "semi": true,
+        "arrowParens": "always",
+        "trailingComma": "all"
+    }
+}
